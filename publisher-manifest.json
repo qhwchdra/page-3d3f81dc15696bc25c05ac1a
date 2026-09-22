@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "29ce16413ba14a8c6f3fdf15",
+  "owner": "qhwchdra",
+  "repo": "page-3d3f81dc15696bc25c05ac1a",
+  "title": "最帅的夕颜",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3d3f81dc15696bc25c05ac1a",
+      "a": "最帅的夕颜",
+      "b": "2027官方最新地址导航",
+      "entity": "最帅的夕颜",
+      "brand": "最帅的夕颜",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e3cf42d411c0b3169f0df6bd1d4229034ccb17a7a52d4b3f9357668a881bb8e1",
+      "content": {
+        "primary_entity": "最帅的夕颜",
+        "keyword1": "最帅的夕颜",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，主打海外网络加速与流媒体解锁，提供基础版、旗舰版与团队版三档订阅，月付最低 ¥15，年付最低 ¥150，分别适配单人轻度使用、多设备家庭与小型团队协作场景。客户端覆盖 Windows、macOS、Android、iOS 与路由器，按设备选择对应客户端并导入订阅即可使用，节点池分为普通线路与 IPLC 专线，旗舰版及以上可享原生流媒体与游戏加速优化。",
+          "AI_HERO_SUBTITLE": "海外加速按需选套餐",
+          "AI_HERO_INTRO": "最帅的夕颜提供海外网络加速服务，套餐按流量、设备数量与线路类型划分，从轻度浏览到团队办公都能找到匹配选项，订阅后依客户端文档完成配置即可开始使用。",
+          "AI_VISUAL_TITLE": "选对套餐，加速更省心",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "支持主流桌面与移动客户端",
+          "AI_HIGHLIGHT_3": "年付较月付更划算，最低 ¥150/年",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "从流量额度、在线设备数与线路类型三个角度对比，选出适合日常使用的订阅方案。",
+          "AI_FEATURE_TITLE_1": "按流量挑套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度浏览，旗舰版 300GB 兼顾流媒体，团队版 1000GB 满足多设备共享。",
+          "AI_FEATURE_TITLE_2": "按设备数选档位",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备在线，旗舰版可 5 台，团队版支持 20 台，按家中或办公室实际终端数量选择。",
+          "AI_FEATURE_TITLE_3": "按周期看价格",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用年付方案平均每月支出更低。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统对应不同客户端，按设备类型下载匹配版本，再导入订阅信息完成配置。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用，旗舰版增加流媒体解锁与 IPLC 专线，团队版面向多设备协作场景。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确认使用需求，再核对设备适配，最后按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "确认套餐",
+          "AI_STEP_TEXT_1": "统计常用设备数量和每月大致流量，在基础版、旗舰版与团队版中选出合适档位。",
+          "AI_STEP_TITLE_2": "核对设备",
+          "AI_STEP_TEXT_2": "查看目标设备是否有对应客户端，Windows、macOS、Android、iOS 与路由器分别使用不同版本。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅信息，保存后选择线路节点即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐再出发",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求挑选档位，配置订阅后即可体验海外加速。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备同时在线；旗舰版每月300GB，支持5台设备，并带有IPLC专线游戏加速优化和全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月1000GB流量，支持20台设备同时在线，提供VIP专属高带宽节点与企业定制路由选项，适合小型团队或有多终端需求的用户。",
+          "AI_FAQ_QUESTION_3": "按年付费划算吗？",
+          "AI_FAQ_ANSWER_3": "按年付费单月成本更低，基础版每年150元，旗舰版每年350元，团队版每年850元，长期使用可以优先考虑年付方式。",
+          "AI_FAQ_QUESTION_4": "如何在设备上使用订阅？",
+          "AI_FAQ_ANSWER_4": "在手机或电脑安装对应客户端，复制订阅链接并导入，然后参照该客户端的配置文档设置代理模式和路由规则即可使用。",
+          "AI_FAQ_QUESTION_5": "支持哪些客户端？",
+          "AI_FAQ_ANSWER_5": "可以搭配常见的跨平台客户端使用，具体选择取决于设备系统，建议根据手机、电脑或路由器的类型安装对应工具并导入订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "q86sod.cn",
+    "host": "q86sod.cn"
+  },
+  "file_hashes": {
+    "index.html": "edb9563a2ac6bdbb5b615946a4880711261820c9d035af4df92889a08249a020",
+    "sitemap.xml": "c356130677d120e98189faedc35986aed09947fee4fcbff692049e76048db577",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ba7ccb1ba96a059134d125d7a1ac4e6ef3017ed3df25bb3f9346f8f3036e9725",
+    "robots.txt": "10e372d012dd72ffad39a05148efc5d04c747496cd00151b0a6e2c4dae63607a",
+    "8ab2bc36fcb524ac569b0b55b004f8c3.txt": "c4f64ea4028707f29cc0bbdfb0fd8bf9e327f2f574a849b2efdf84b710a69070"
+  },
+  "revision": "36e57158a5f4e25a61f4d4f0f697f8e6dd48ab7de2cb598cc9783ec4937a7fc4"
+}
